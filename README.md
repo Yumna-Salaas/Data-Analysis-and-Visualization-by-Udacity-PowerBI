@@ -1,6 +1,6 @@
 # Data Analysis and Visualization with Microsoft Power BI - Udacity Nanodegree
 
-This repository contains the main projects completed during the Udacity Nanodegree program "Data Analysis and Visualization with Microsoft Power BI." This program equips learners with in-demand skills in data pre-processing, visualization, and analysis using Power BI as the primary tool.
+This repository contains the main projects completed during the Udacity Nanodegree program "Data Analysis and Visualization with Microsoft Power BI." This program focuses on in-demand skills in data pre-processing, visualization, and analysis using Power BI as the primary tool.
 
 ## Table of Contents
 
