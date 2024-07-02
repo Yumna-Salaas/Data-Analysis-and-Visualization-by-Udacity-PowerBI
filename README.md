@@ -10,9 +10,6 @@ This repository contains the main projects completed during the Udacity Nanodegr
   - [2. Report for Waggle](#2-report-for-waggle)
   - [3. Market Analysis Report for National Clothing Chain](#3-market-analysis-report-for-national-clothing-chain)
 
-## Course Description
-
-This program will equip any learner who wants to develop in-demand skills in data pre-processing, visualization, and analysis using Power BI as the primary tool. The course covers a comprehensive set of skills, including data extraction, transformation, modeling, visualization, and advanced analysis techniques.
 
 ## Projects
 
@@ -33,21 +30,7 @@ At the end, you will have applied the key concepts of this course to combine and
 5. Writing suitable measures such as Gross-Profit-Margin and Unit-Sales-By-Product.
 6. Creating a simple and meaningful report with a summary.
 
-**Skills Developed:**
 
-- Data transformation
-- DAX
-- Power Query
-- Business reporting fluency
-- Relational data models
-- Power BI Calculated Columns and Measures
-- Data extraction
-- Power BI Data Types
-- Power BI Get Data
-- Stakeholder management
-- Power BI Report Design
-- Power BI Data Pipeline
-- Table design
 
 ### 2. Report for Waggle
 
@@ -65,18 +48,7 @@ This success has led Waggle’s CEO to push for a feline version but there are c
 5. Creating various types of slicers/filters (slider, hierarchy, dropdown, search).
 6. Building interactive buttons with bookmarks.
 
-**Skills Developed:**
 
-- Power BI Report Customization
-- Data visualization design
-- Power BI Report Design
-- Stakeholder management
-- Business reporting fluency
-- Advanced data visualizations
-- Data storytelling
-- Basic data visualizations
-- Data visualization
-- Business metrics
 
 ### 3. Market Analysis Report for National Clothing Chain
 
@@ -101,16 +73,19 @@ The goal of the project is to create a market analysis report for a national clo
 9. Performing additional necessary analysis to further improve the sales plan.
 10. Writing a market analysis report with all findings and a summary.
 
-**Skills Developed:**
+## Course Description
 
+This program will equip any learner who wants to develop in-demand skills in data pre-processing, visualization, and analysis using Power BI as the primary tool. The course covers a comprehensive set of skills, including data extraction, transformation, modeling, visualization, and advanced analysis techniques.
+
+**The Skills**
+
+- Data transformation
 - DAX
 - Power Query
-- Data fluency
+- Data visualization design
 - Advanced data visualizations
 - Predictive analytics
-- Historical data analysis
 - Stakeholder management
-- Power BI Calculated Columns and Measures
-- Data transformation
-- Basic descriptive statistics
-- Data visualization design
+- Power BI Report Design
+- Business reporting fluency
+
