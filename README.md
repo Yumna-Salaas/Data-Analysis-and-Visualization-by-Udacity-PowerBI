@@ -20,7 +20,9 @@ This program will equip any learner who wants to develop in-demand skills in dat
 
 **Project Overview:**
 
-This course is a crucial step in Power BI for anyone who needs to mash together multiple data sources, clean them, restructure them, and harmonize them into a single and efficient data model to support reporting. We cover Power BI’s built-in Extract-Transform-Load (ETL) tool, Power Query, learn foundational data modeling principles, cover some introductory DAX (Data Analytics Expressions), and touch on troubleshooting and optimization.
+In this project, you'll create a data model and Power BI report for Seven Sages Tea Company (SSTC) that combines information from all over the company. Your data model will make it possible for the company's CFO to quickly review and analyze which tea beverages sell well and which ones generate the highest profitability.
+
+At the end, you will have applied the key concepts of this course to combine and centralize data that was previously siloed, solving a very common issue facing many companies. More importantly, you'll have a solid foundation to build on when it comes to more complex reporting visualization demands, advanced DAX requirements, or larger data models. No matter how large the data models get as your career progresses, the core principles remain the same.
 
 **Project Steps:**
 
@@ -51,8 +53,9 @@ This course is a crucial step in Power BI for anyone who needs to mash together 
 
 **Project Overview:**
 
-In this course, students learn how to carry Power BI beyond mere bar charts and transform their reports into data exploration and storytelling tools that companies can use to better understand their data.
+You work as a business intelligence analyst for Waggle, a startup that makes smart devices for pets. Recently, Waggle has been thrilled by the success of their new Lapdog device, a fitness collar that lets owners track their dog’s steps, alerts them when it’s time for a walk, and even repels fleas! Reviews have been fantastic, sales are growing, and—best of all—the product really works!
 
+This success has led Waggle’s CEO to push for a feline version but there are concerns about its viability. For this reason, the product team distributed 1,000 Lapcat prototypes for field testing. Now, after months of data collection, you have been tasked with delivering a boardroom-ready Power BI report that tells the story of how the Lapcat data compares to findings from the dog collar Lapdog devices. You’re excited because your work will be presented at the highest levels of the company and will either help convince the CEO that Lapcat is the next big thing or a costly mistake to be avoided.
 **Project Steps:**
 
 1. Building the custom theme based on Waggle color palette.
@@ -79,7 +82,7 @@ In this course, students learn how to carry Power BI beyond mere bar charts and 
 
 **Project Overview:**
 
-Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process. Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience.
+An online national clothing chain needs your help creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target. They need you to conduct an analysis to determine the best product to advertise to each customer.
 
 **Project Goal:**
 
